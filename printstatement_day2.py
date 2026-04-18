@@ -1,0 +1,5 @@
+print (" Today is my second day in python practice.Still i am vey confident about my next journey.")
+print(12*34)
+print(12+34)
+print(12/34)
+print(12-34)
